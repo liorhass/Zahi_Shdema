@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="auto">
 
 צח"י שדמה 2
 
